@@ -1,0 +1,26 @@
+* {
+  padding: 0;
+  margin: 0;
+   
+}
+
+nav{ position: fixed !important; top:0 !important; }
+
+body{}
+
+.nav_izquierdo
+{	
+	height: 100%;
+	overflow-y: auto;
+	position: fixed;
+	margin-top: 5em;
+	background-color: white; 
+	color: black;
+	 font-family: 'Lobster', cursive; text-align:center
+}
+
+.nav_izquierdo a{color: black;}
+
+.cuerpo{margin-top: 3em;font-family: 'Lobster', cursive; text-align:center}
+
+.nav_izquierdo a{margin-bottom: 0.5em;}
